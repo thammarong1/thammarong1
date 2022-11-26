@@ -1,4 +1,13 @@
 ### Hi there 👋
+I Am Thammarong.
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=node,js,html,css,mysql&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,bootstrap,angular&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+
+
+
+
 
 <!--
 **thammarong1/thammarong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
