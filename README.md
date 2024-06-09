@@ -1,9 +1,9 @@
 ### Hi there 👋
 I Am Thammarong.
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=cypress,js,html,css,mysql&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,mysql&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,bootstrap,angular&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=cypress&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 
 
